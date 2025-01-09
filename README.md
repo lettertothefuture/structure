@@ -1,6 +1,6 @@
 Structure for letter to the future:
 
-#### [Structure](diagram.pdf)
+#### [PDF](diagram.pdf)
 
 
 
